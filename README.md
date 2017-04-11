@@ -5,7 +5,7 @@ SmartNews UI sample
 
 ## DEMO
 
-![demo.mov.gif](demo.mov.gif)
+![https://raw.githubusercontent.com/mitakeck/smart_news_ui_sample/master/demo.gif](https://raw.githubusercontent.com/mitakeck/smart_news_ui_sample/master/demo.gif)
 
 ## Dependences
 
