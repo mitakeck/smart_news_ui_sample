@@ -12,7 +12,7 @@ class PagingMenu1ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+
         let textLabel = UILabel(frame: CGRect(x: 0, y: 0, width: 200, height: 30))
         textLabel.center = view.center
         textLabel.textAlignment = .center
